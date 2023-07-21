@@ -162,6 +162,7 @@ section{
     border-radius: 15px; 
     margin-bottom: 40px;
     margin-left: 20px;
+    margin-right: 20px;
     transition: 0.7s ease;
     cursor: pointer;
 }
